@@ -1,6 +1,6 @@
 ### Hi, I'm Nishaad 👋
 
-1st Year CS student. I build agentic dev tooling, full-stack apps and anything that I find to be useful :)
+CS student. I build agentic dev tooling, full-stack apps and anything that I find to be useful :)
 
 
 📍 VIT Vellore · [LinkedIn](https://linkedin.com/in/nishaad-bharaswadkar-017860406)
